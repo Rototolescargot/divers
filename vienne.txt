@@ -1,0 +1,98 @@
+U1_1_Oberlaa
+U1_2_Neulaa
+U1_3_Alaudagasse
+U1_4_Altes Landgut
+U1_5_Troststraße
+U1_6_Reumannplatz
+U1_7_Keplerplatz
+U1_8_Südtiroler Platz-Hauptbahnhof
+U1_9_Taubstummengasse
+U1_10_U2_20_U4_12_Karlsplatz
+U1_11_U3_11_Stephansplatz
+U1_12_U4_15_Schwedenplatz
+U1_13_Nestroyplatz
+U1_14_U2_13_Praterstern
+U1_15_Vorgartenstraße
+U1_16_Donauinsel
+U1_17_Kaisermühlen/Vienna International Centre
+U1_18_Alte Donau
+U1_19_Kagran
+U1_20_Kagraner Platz
+U1_21_Rennbahnweg
+U1_22_Aderklaaer Straße
+U1_23_Großfeldsiedlung
+U1_24_Leopoldau
+U2_1_Seestadt
+U2_2_Aspern Nord
+U2_3_Hausfeldstraße
+U2_4_Aspernstraße
+U2_5_Donauspital
+U2_6_Hardeggasse
+U2_7_Stadlau
+U2_8_Donaustadtbrücke
+U2_9_Donaumarina
+U2_10_Stadion
+U2_11_Krieau
+U2_12_Messe-Prater
+U2_14_Taborstraße
+U2_15_U4_16_Schottenring
+U2_16_Schottentor
+U2_17_Rathaus
+U2_18_U3_9_Volkstheater
+U2_19_Museumsquartier
+U3_1_Ottakring
+U3_2_Kendlerstraße
+U3_3_Hütteldorfer Straße
+U3_4_Johnstraße
+U3_5_Schweglerstraße
+U3_6_U6_11_Westbahnhof
+U3_7_Zieglergasse
+U3_8_Neubaugasse
+U3_10_Herrengasse
+U3_12_Stubentor
+U3_13_U4_14_Landstraße
+U3_14_Rochusgasse
+U3_15_Kardinal-Nagl-Platz
+U3_16_Schlachthausgasse
+U3_17_Erdberg
+U3_18_Gasometer
+U3_19_Zippererstraße
+U3_20_Enkplatz
+U3_21_Simmering
+U4_1_Hütteldorf
+U4_2_Ober St. Veit
+U4_3_Unter St. Veit
+U4_4_Braunschweiggasse
+U4_5_Hietzing
+U4_6_Schönbrunn
+U4_7_Meidling Hauptstraße
+U4_8_U6_9_Längenfeldgasse
+U4_9_Margaretengürtel
+U4_10_Pilgramgasse
+U4_11_Kettenbrückengasse
+U4_13_Stadtpark
+U4_17_Roßauer Lände
+U4_18_Friedensbrücke
+U4_19_U6_19_Spittelau
+U4_20_Heiligenstadt
+U6_1_Siebenhirten
+U6_2_Perfektastraße
+U6_3_Erlaaer Straße
+U6_4_Alterlaa
+U6_5_Am Schöpfwerk
+U6_6_Tscherttegasse
+U6_7_Bahnhof Meidling
+U6_8_Niederhofstraße
+U6_10_Gumpendorfer Straße
+U6_12_Burggasse-Stadthalle
+U6_13_Thaliastraße
+U6_14_Josefstädter Straße
+U6_15_Alser Straße
+U6_16_Michelbeuern-AKH
+U6_17_Währinger Straße-Volksoper
+U6_18_Nußdorfer Straße
+U6_20_Jägerstraße
+U6_21_Dresdner Straße
+U6_22_Handelskai
+U6_23_Neue Donau
+U6_24_Floridsdorf
